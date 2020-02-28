@@ -1,0 +1,76 @@
+    
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+.form-signin{
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: white;
+   
+}
+
+img{
+	margin-top: 10px;
+	background-image:#e9ecef;
+}
+
+.card-img-top{
+	height: 225px;
+    width: 100%;
+    display: block;
+}
+
+#inputEmail{
+	background-color:#e9ecef;
+}
+
+.jumbotron{
+	background-image: url('https://image.freepik.com/free-vector/silhouettes-rock-concert_1048-4815.jpg');
+	padding:0px;
+	padding-top:0px;
+}
+
+.jumbotron-heading{
+	color:black;
+	font-weight:1000;
+}
+
+.container p{
+	color:black!important;
+	font-weight:500;
+}
+
+.footer p{
+	text-align: center;
+	color:white;
+}
+
+.footer a{
+	color:white;
+}
+
+
+.button{
+    display: block;
+    width: 63%;
+    vertical-align: middle;
+    margin-left: 76px;
+    margin-top: 10px;
+}
+
+header .about{
+	color::#6c757d;
+	font-weight: 200;
+	width:400px;
+	font-size: 16px;
+}
+
+.footer{
+	background-color: #dc3545;
+	padding:10px;
+}
+
